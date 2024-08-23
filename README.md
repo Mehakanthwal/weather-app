@@ -27,5 +27,6 @@ Stay up-to-date with the latest weather forecast with our interactive weather ap
 - *Responsive Design*: Works seamlessly on desktop, tablet, and mobile devices
 - *Real-time Updates*: Get the latest weather data in real-time
 - *User-Friendly Interface*: Easy to navigate and understand weather information
+
 OUTPUT:
 ⛓️
