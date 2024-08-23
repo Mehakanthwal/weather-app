@@ -29,4 +29,4 @@ Stay up-to-date with the latest weather forecast with our interactive weather ap
 - *User-Friendly Interface*: Easy to navigate and understand weather information
 
 OUTPUT:
-⛓️
+⛓️ http://127.0.0.1:5500/index.html
